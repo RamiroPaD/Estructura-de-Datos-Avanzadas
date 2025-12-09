@@ -4,7 +4,7 @@
 ### 📘 Material de ejercicios  
 | Actividad | Nombre                   | Url                                                 |
 |----------|---------------------------|-----------------------------------------------------|
-| 1        | U3EjercicioGuiadoSwing    |  [📄Ver PDF](ArbolBinario.pdf) |
+| 1        | U3EjercicioGuiadoSwing    |  [📄Ver PDF](Arbol_Binario.pdf) |
 
 ### 💻 Código  
 | Actividad | Nombre     | Ver código                                  | Ver video                                  |
