@@ -10,3 +10,4 @@
 | Actividad | Nombre     | Ver código                                  | Ver video                                  |
 |----------|------------|----------------------------------------------|---------------------------------------------|
 | 1        | Ejercicio 1 | [📄 Ver código](Ejercicio01.java)            | [▶️ Ver video](https://youtu.be/JAZmTn5bINI) |
+| 2        | Ejercicio 2 | [📄 Ver código](Ejercicio2.java)            | [▶️ Ver video]() |
