@@ -3,6 +3,6 @@
 | Actividad        | Nombre           | Url  |
 | ------------- |:-------------:| -----:|
 | 1     | U3EjercicioGuiadoSwing | [ 📄 Ver PDF](IdentificaciondeElementosdeunArbol_PadiernaDelgadoRamiro.pdf)   |
-      | Ejercicios de Swing |   
-| Actividad        | Nombre           | Codigo  | Pruebas  |
+| ------------- |:-------------:| -----:|-----:|
+| Actividad        | Nombre           | Url  |codigo|
 | 1     | Ejercio 1 | [ 📄 Ver codigo](Ejercicio01.java)   |     |
